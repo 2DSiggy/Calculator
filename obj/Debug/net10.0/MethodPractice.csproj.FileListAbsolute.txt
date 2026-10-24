@@ -1,0 +1,14 @@
+/home/deck/RiderProjects/MethodPractice/MethodPractice/bin/Debug/net10.0/MethodPractice
+/home/deck/RiderProjects/MethodPractice/MethodPractice/bin/Debug/net10.0/MethodPractice.deps.json
+/home/deck/RiderProjects/MethodPractice/MethodPractice/bin/Debug/net10.0/MethodPractice.runtimeconfig.json
+/home/deck/RiderProjects/MethodPractice/MethodPractice/bin/Debug/net10.0/MethodPractice.dll
+/home/deck/RiderProjects/MethodPractice/MethodPractice/bin/Debug/net10.0/MethodPractice.pdb
+/home/deck/RiderProjects/MethodPractice/MethodPractice/obj/Debug/net10.0/MethodPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/deck/RiderProjects/MethodPractice/MethodPractice/obj/Debug/net10.0/MethodPractice.AssemblyInfoInputs.cache
+/home/deck/RiderProjects/MethodPractice/MethodPractice/obj/Debug/net10.0/MethodPractice.AssemblyInfo.cs
+/home/deck/RiderProjects/MethodPractice/MethodPractice/obj/Debug/net10.0/MethodPractice.csproj.CoreCompileInputs.cache
+/home/deck/RiderProjects/MethodPractice/MethodPractice/obj/Debug/net10.0/MethodPractice.dll
+/home/deck/RiderProjects/MethodPractice/MethodPractice/obj/Debug/net10.0/refint/MethodPractice.dll
+/home/deck/RiderProjects/MethodPractice/MethodPractice/obj/Debug/net10.0/MethodPractice.pdb
+/home/deck/RiderProjects/MethodPractice/MethodPractice/obj/Debug/net10.0/MethodPractice.genruntimeconfig.cache
+/home/deck/RiderProjects/MethodPractice/MethodPractice/obj/Debug/net10.0/ref/MethodPractice.dll
