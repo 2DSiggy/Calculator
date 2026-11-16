@@ -51,4 +51,4 @@ int AskForNumber(string text)
     Console.WriteLine(text);
     return int.Parse(Console.ReadLine());
 }
-Console.WriteLine(calculatorMain(getFirstNumber(), getOperation(), getSecondNumber()));
+Console.WriteLine(calculatorMain(calculatorMain(getFirstNumber(), getOperation(), getSecondNumber()), getOperation(), getSecondNumber()));
