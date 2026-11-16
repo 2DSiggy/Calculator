@@ -3,13 +3,11 @@ string operation = "";
 int modifyingNumber;
 int getFirstNumber()
 {
-    Console.WriteLine("Please specify the first number to use.");
-    return int.Parse(Console.ReadLine());
+    return AskForNumber("Please specify the first number to use.");
 }
 int getSecondNumber()
 {
-    Console.WriteLine("Please specify the next number to use.");
-    return int.Parse(Console.ReadLine());
+    return AskForNumber("Please specify the next number to use.");
 }
 string getOperation()
 {
@@ -20,7 +18,7 @@ string getOperation()
         Console.WriteLine("''-'' for subtraction.");
         Console.WriteLine("''*'' for multiplication.");
         Console.WriteLine("''/'' for division.");
-        string operation = Console.ReadLine();
+        string operation = Console.ReadLine()!;
         if (operation == "+" || operation == "-" || operation == "*" || operation == "/")
             return operation;
         Console.WriteLine("Enter an operation");
@@ -46,5 +44,11 @@ int calculatorMain(int currentNumber, string operation, int modifyingNumber)
         }
     }
     return currentNumber;
+}
+
+int AskForNumber(string text)
+{
+    Console.WriteLine(text);
+    return int.Parse(Console.ReadLine());
 }
 Console.WriteLine(calculatorMain(getFirstNumber(), getOperation(), getSecondNumber()));
